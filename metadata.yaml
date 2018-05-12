@@ -1,0 +1,42 @@
+_repo: Training-the-Teacher_31791
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Schauffler, A. F. (Adolphus Frederick)
+    alias: Schauffler, Adolphus Frederick
+    birthdate: 1845
+    deathdate: 1919
+    gutenberg_agent_id: '35468'
+    url: http://www.gutenberg.org/2009/agents/35468
+  - agent_name: Lawrance, Marion
+    birthdate: 1850
+    deathdate: 1924
+    gutenberg_agent_id: '35470'
+    url: http://www.gutenberg.org/2009/agents/35470
+  - agent_name: Brumbaugh, Martin Grove
+    alias: Brumbaugh, M. G. (Martin Grove)
+    birthdate: 1862
+    deathdate: 1930
+    gutenberg_agent_id: '35469'
+    url: http://www.gutenberg.org/2009/agents/35469
+  - agent_name: Lamoreaux, Antoinette Abernethy
+    gutenberg_agent_id: '5118'
+    url: http://www.gutenberg.org/2009/agents/5118
+description: ''
+gutenberg_issued: '2010-03-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31791'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sunday schools'
+- !lcsh 'Bible -- Study and teaching'
+- !lcc 'BV'
+title: Training the Teacher
+url: http://www.gutenberg.org/ebooks/31791
